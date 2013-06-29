@@ -1,4 +1,6 @@
 BBTextFieldPicker
 =================
 
-A UIPickerView replacement for the keyboard in a UITextField
+BBTextFieldPicker is a UITextField replacement that swaps out the keyboard for a UIPickerView.
+
+
