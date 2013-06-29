@@ -11,7 +11,7 @@ Add `pod 'BBTextFieldPicker'` to your Podfile
 ## Manual Installation
 Copy the `BBTextFieldPicker.h/m` files to your project.
 
-## Usage
+### Usage
 
 Just use BBTextFieldPicker as a replacement for UITextField.
 
@@ -24,7 +24,7 @@ textField.textFieldPickerDelegate = self;
 ```
 You can also swap out the class type in Interface Builder if you want. Just add a normal UITextField and change the class type to BBTextFieldPicker.
 
-BBTextFieldPicker Delegate Method
+### BBTextFieldPicker Delegate Method
 
 ```objective-c
 - (void)pickerToolbarButtonPressed:(id)sender;
